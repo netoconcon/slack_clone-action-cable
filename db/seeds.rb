@@ -8,5 +8,5 @@
 
 
 Chatroom.create(name: "general")
-User.create(email: "lu@lewagon.org", nickname: "ssaunier", password: "123456")
-User.create(email: "arthur@lewagon.org", nickname: "Papillard", password: "123456")
+User.create(email: "lu@lewagon.org", nickname: "lu", password: "123456")
+User.create(email: "arthur@lewagon.org", nickname: "arthur", password: "123456")
